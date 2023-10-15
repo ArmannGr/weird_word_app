@@ -2,6 +2,8 @@
 
 Welcome to the Weird Word App, a Flutter application that will delight you with its collection of random, intriguing word pairs. With this app, you can explore unique English word combinations and mark your favorite ones for future reference. Whether you're looking to expand your vocabulary or simply appreciate the beauty of language, the Weird Word App is here to make your word discovery journey fun and enjoyable. This app is created with the help of the [Flutter docs](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0) and its codelab "First Flutter app".  
 
+![Wierd Word App Demo](./img/demo.png)
+
 ## Features
 
 - **Random Word Pairs**: Discover an ever-growing list of intriguing word pairs that will spark your curiosity.
